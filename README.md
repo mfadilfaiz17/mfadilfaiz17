@@ -29,6 +29,9 @@ I am a **Computer Engineering Technology** student at Politeknik Negeri Indramay
 
 ---
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mfadilfaiz17&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mfadilfaiz17&layout=compact&theme=dark)
+
 ### Featured Projects
 
 *   **Kidney Disease Classification (Deep Learning)**: Developed a CNN-based model to classify kidney conditions (Pneumonia vs. Normal) with ~93% accuracy using a 32-neuron convolution layer architecture.
