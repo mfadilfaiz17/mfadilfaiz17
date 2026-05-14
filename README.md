@@ -4,14 +4,11 @@ I am a **Computer Engineering Technology** student at Politeknik Negeri Indramay
 
 ### Tools & Technologies
 
-**Frontend**
 [![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev)
 
-**Backend & Database**
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql)](https://skillicons.dev)
 
-**AI & IOT**
-[![Skills](https://skillicons.dev/icons?i=py,tensorflow,esp32)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,tensorflow,arduino)](https://skillicons.dev)
 
 ---
 
