@@ -9,10 +9,7 @@ I am a **Computer Engineering Technology** student at Politeknik Negeri Indramay
 [![Skills](https://skillicons.dev/icons?i=py,tensorflow,arduino)](https://skillicons.dev)
 
 ---
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mfadilfaiz17&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mfadilfaiz17&layout=compact&theme=dark)
-
 ---
 
 ### Let's Connect!
