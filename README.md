@@ -39,9 +39,9 @@ I am a **Computer Engineering Technology** student at Politeknik Negeri Indramay
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zoraaa&show_icons=true&theme=radical)
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mfadilfaiz17&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoraaa&layout=compact&theme=radical)
 
-### 📫 Let's Connect!
+### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-fadil-faiz-621081309/)
